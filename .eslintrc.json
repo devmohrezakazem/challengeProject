@@ -1,0 +1,9 @@
+{
+	"extends":".eslintrc.js",
+	"plugins": [],
+	"settings": {
+		"flowtype": {
+			"onlyFilesWithFlowAnnotation": false
+		}
+	}
+}
